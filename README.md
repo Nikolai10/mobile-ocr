@@ -55,7 +55,7 @@ By tesseract recognized textlines before after dewarping:
 1. [Install Tesseract OCR](https://github.com/tesseract-ocr/tesseract); at time of writing, tesseract 4.0.0-beta.1 
 was used as OCR engine.
 
-2. Download [homography_model](https://www.dropbox.com/s/mie2ddqx5stntgp/xception_10000.h5?dl=0) into /res/homographyModel/
+2. Download [homography_model](https://files.mycloud.com/home.php?brand=webfiles&seuuid=0d3501d38bd41cefae626d66ed160c17&name=xception_10000) into /res/homographyModel/
 
 3. Install dependencies (using conda virtualenv)
     
