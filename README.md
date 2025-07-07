@@ -1,7 +1,7 @@
 # MobileOCR
 Keywords: `OCR`, `Page Dewarping`, `Deep Learning`, `Tesseract-OCR`, `DAS2018`, `ICDAR2017` 
 
-[Conference Paper]([https://www.researchgate.net/publication/337907985_Improving_Camera-based_Document_Analysis_with_Deep_Learning](https://conferences.ulbsibiu.ro/icdd/2019/files/Proceedings_ICDD2019.pdf))
+[Conference Paper](https://conferences.ulbsibiu.ro/icdd/2019/files/Proceedings_ICDD2019.pdf)
 
 ## 1. Introduction: Camera-based document analysis
 
